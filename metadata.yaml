@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '35615'
     url: http://www.gutenberg.org/2009/agents/35615
     wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+covers:
+- cover_type: archival
+  image_path: 72250-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilhelm, Kate
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56613
     wikipedia: https://en.wikipedia.org/wiki/Kate_Wilhelm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72250#The-last-days-of-the-captain
 gutenberg_issued: '2023-11-28'
 identifiers:
   gutenberg: '72250'
